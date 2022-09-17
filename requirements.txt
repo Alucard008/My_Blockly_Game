@@ -1,5 +1,3 @@
 svn
 wget
-openjdk==14.0.2
 sed
-python
