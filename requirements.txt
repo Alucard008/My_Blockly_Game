@@ -1,5 +1,3 @@
 svn
 wget
-java
 sed
-python

@@ -1,3 +1,1 @@
-web: make deps
-web: make game
-web: maze.html
+web: python build/compress.py maze 
