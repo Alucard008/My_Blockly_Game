@@ -1,1 +1,3 @@
-web: python server.py $PORT
+web: make deps
+web: make game
+web: maze.html
