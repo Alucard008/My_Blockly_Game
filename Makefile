@@ -9,7 +9,7 @@ REQUIRED_BINS = svn wget java python sed
 ##############################
 
 all: deps games
-ashdgahsjdghajsdg
+
 index: common
 	python build/compress.py index
 
